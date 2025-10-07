@@ -37,10 +37,10 @@ The main goal was to **transform 3+ years of sales and delivery records** into a
 
 ## 📊 Sample Dashboard Previews
 ### Sales Overview
-![Sales Overview](source/page1_Veera.png)
+![Sales Overview](shipping-performance/source/page1_Veera.png)
 
 ### Late Orders by Status
-![Proportion of Late Orders](source/page2_Veera.png)
+![Proportion of Late Orders](shipping-performance/source/page2_Veera.png)
 
 ---
 
