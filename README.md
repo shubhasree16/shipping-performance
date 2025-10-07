@@ -60,5 +60,5 @@ This dashboard turns raw data into **actionable business intelligence**, helping
 
 ---
 ## 📅 Data Source
-Kaggle - https://www.kaggle.com/code/simontagbor/demand-forecasting-and-inventory-optimisation/notebook<img width="466" height="38" alt="image" src="https://github.com/user-attachments/assets/c2de62df-feeb-4d92-bf2b-6f4bea489020" />
+Kaggle - https://www.kaggle.com/code/simontagbor/demand-forecasting-and-inventory-optimisation/notebook
 
